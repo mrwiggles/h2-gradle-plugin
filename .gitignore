@@ -7,3 +7,4 @@ CVS
 build
 h2-gradle-plugin.iml
 .idea
+out/
